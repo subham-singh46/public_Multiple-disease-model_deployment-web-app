@@ -1,0 +1,5 @@
+numpy=1.21.3
+pickel-mixin
+streamlit
+streamlit option menu
+scikit-learn==1.0.1
